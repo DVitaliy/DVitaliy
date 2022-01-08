@@ -8,7 +8,7 @@ Expertise in frontend and backend development using `JavaScript (ES5, ES6)`, `No
 
 # Jupiter
 *08/2021 - current time*
-> The constructor to create a mobile application without writing any code.
+> A constructor for creating a mobile application without writing any code. 
 Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance and usability on [`Figma`](https://figma.com/)
 
 **Responsibilities:** Team Lead *(Front-End)*
