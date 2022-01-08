@@ -1,6 +1,6 @@
 ## Full-stack JavaScript Developer
 
-Last 8 years worked at Japanese Company [`I3design`](https://www.i3design.jp/) R&D department.
+Last 8 years worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
 
 Expertise in frontend and backend development using `JavaScript (ES5, ES6)`, `Node.js`, `TypeScript`, `React`
 
@@ -50,6 +50,7 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 
 # Flamingo
 *10/2013 - 2021*
+>
 
 
 ## [This is located my old resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
