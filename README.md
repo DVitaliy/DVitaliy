@@ -52,6 +52,22 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 *10/2013 - 2021*
 > Solution that enables you to improve the site without changing the system code or server by adopting the architecture that runs on the browser side.
 
+**Responsibilities:** Backend and Frontend development
+- Developing features
+- Team management
+- New team members onboarding
+- Code review
+
+**Tech stack:** 
+- Client: JavaScript, JQuery, Bootstrap
+- Backend: Node.js
+- API protocol: Web Sockets, JaberServer
+- VCS: GitLab
+
+**Team:**
+- Project manager, 2 Front-end developers in Ukraine;
+- Back-end developers in Ukraine;
+- Product owner in Japan;
 
 
 ## [Here located my old resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
