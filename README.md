@@ -40,7 +40,7 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 
 **Team:** Project managers, Product owner in Japan;
 
-# Mirron https://mirron.me/
+# [Mirron](https://mirron.me/)
 *03/2020 - 12/2020*
 > Social network for stylists and women using Mirron products
 
@@ -62,7 +62,7 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 *01/2019 - 11/2019*
 > About
 
-# Flamingo https://gomobile.jp/flamingo/
+# [Flamingo](https://gomobile.jp/flamingo/)
 *10/2013 - 2021*
 > Solution that enables you to improve the site without changing the system code or server by adopting the architecture that runs on the browser side.
 
@@ -84,4 +84,4 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 - Product owner in Japan;
 
 
-## [Here located my old resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
+## [Here located my previous resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
