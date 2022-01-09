@@ -48,9 +48,10 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 *01/2019 - 11/2019*
 > About
 
-# Flamingo
+# Flamingo https://gomobile.jp/flamingo/
 *10/2013 - 2021*
->
+> Solution that enables you to improve the site without changing the system code or server by adopting the architecture that runs on the browser side.
 
 
-## [This is located my old resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
+
+## [Here located my old resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
