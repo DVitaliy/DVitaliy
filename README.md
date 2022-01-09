@@ -2,7 +2,7 @@
 
 Last 8 years worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
 
-Expertise in frontend and backend development using `JavaScript (ES5, ES6)`, `Node.js`, `TypeScript`, `React`
+Expert in frontend and backend development using `JavaScript (ES5, ES6)`, `Node.js`, `TypeScript`, `React`, `Recoil`
 
 ### Worked on projects
 
@@ -27,10 +27,10 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 - VCS: GitLab
 
 **Team:**
-- 2 Front-end developers in Vietnam;
-- Project manager, Team Lead and Markuper in Ukraine;
-- Back-end developers in Ukraine;
-- Product owner in Japan;
+- 2 Front-end developers in Vietnam
+- Project manager, Team Lead and Markuper in Ukraine
+- Back-end developers in Ukraine
+- Product owner in Japan
 
 # Migrate Mobify's clients to Flamingo
 *01/2021 - 07/2021*
@@ -47,20 +47,41 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 **Responsibilities:** Mobile Developer, QA
 
 **Tech stack:** 
-- Mobile Application: React Native;
-- Website: PHP+Laravel;
-- Environment: 4 environments deployed on Microsoft Azure;
-- Push-Notification Service: Firebase;
-- File storage: Azure Blob storage + CDN;
+- Mobile Application: React Native
+- Website: PHP+Laravel
+- Environment: 4 environments deployed on Microsoft Azure
+- Push-Notification Service: Firebase
+- File storage: Azure Blob storage + CDN
 - GitLab, BitRise
 
 # MyTennis
 *12/2019 - 02/2020*
-> About
+> Tennis website, with results and statistics of matches
+
+**Responsibilities:** PHP Developer
+- Stylization Admin Panel
+
+**Tech stack:** 
+- Website: PHP
+- CSS Framework: Materialize 
 
 # AeroEdge
 *01/2019 - 11/2019*
-> About
+> The largest Japanese aircraft engine assembler, a website was developed for internal accounting and analysis of the entire assembly process
+
+**Responsibilities:** Front-End
+- Arhiticture
+- Developing features
+
+**Tech stack:** 
+- Client: React 16
+- State Managment: Redux
+- CSS Framework: Materialize 
+- REST API
+- 
+**Team:**
+- Project manager, Front-end and Back-end developers in Ukraine
+- Product owner in Japan
 
 # [Flamingo](https://gomobile.jp/flamingo/)
 *10/2013 - 2021*
@@ -71,6 +92,7 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 - Team management
 - New team members onboarding
 - Code review
+- Unit Tests
 
 **Tech stack:** 
 - Client: JavaScript, JQuery, Bootstrap, HTML5
@@ -79,9 +101,9 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 - VCS: GitLab
 
 **Team:**
-- Project manager, 2 Front-end developers in Ukraine;
-- Back-end developers in Ukraine;
-- Product owner in Japan;
+- Project manager, 2 Front-end developers in Ukraine
+- Back-end developers in Ukraine
+- Product owner in Japan
 
 
 ## [Here located my previous resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
