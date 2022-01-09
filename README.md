@@ -20,7 +20,7 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 
 **Tech stack:** 
 - Client: React 17 (hooks)
-- TypeScript
+- Language: TypeScript
 - State Managment: Recoil
 - Auth: Amazone Aws Cognito
 - API protocol: gRPC proto3
@@ -34,11 +34,25 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 
 # Migrate Mobify's clients to Flamingo
 *01/2021 - 07/2021*
-> About
+> At the end of 2020, Mobify announced its merger with SalesForse. Some clients decided to migrate to `Flamingo`
 
-# Mirron.me
+**Responsibilities:** JavaScript Developer
+
+**Team:** Project managers, Product owner in Japan;
+
+# Mirron https://mirron.me/
 *03/2020 - 12/2020*
-> About
+> Social network for stylists and women using Mirron products
+
+**Responsibilities:** Mobile Developer, QA
+
+**Tech stack:** 
+- Mobile Application: React Native;
+- Website: PHP+Laravel;
+- Environment: 4 environments deployed on Microsoft Azure;
+- Push-Notification Service: Firebase;
+- File storage: Azure Blob storage + CDN;
+- GitLab, BitRise
 
 # MyTennis
 *12/2019 - 02/2020*
@@ -52,14 +66,14 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 *10/2013 - 2021*
 > Solution that enables you to improve the site without changing the system code or server by adopting the architecture that runs on the browser side.
 
-**Responsibilities:** Backend and Frontend development
+**Responsibilities:** Team Lead *(Front-End)*
 - Developing features
 - Team management
 - New team members onboarding
 - Code review
 
 **Tech stack:** 
-- Client: JavaScript, JQuery, Bootstrap
+- Client: JavaScript, JQuery, Bootstrap, HTML5
 - Backend: Node.js
 - API protocol: Web Sockets, JaberServer
 - VCS: GitLab
