@@ -4,6 +4,8 @@
 > **Phone:** +38063-729-43-04
 >
 > **in:** linkedin.com/in/виталий-дынник-73ba0b80
+>
+> **GitHub:** github.com/DVitaliy
 
 ## Front-end JavaScript Developer
 
