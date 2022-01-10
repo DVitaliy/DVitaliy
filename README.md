@@ -1,8 +1,10 @@
-## Full-stack JavaScript Developer
+## Front-end JavaScript Developer
 
 Last 8 years worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
 
 Expert in frontend and backend development using `JavaScript (ES5, ES6)`, `Node.js`, `TypeScript`, `React`, `Recoil`
+
+My passion is creating simple yet usability user interfaces. For example, Figma, where a lot of functionality is not displayed, but hidden and access to it is logical and intuitive.
 
 ### Worked on projects
 
