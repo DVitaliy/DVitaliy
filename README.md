@@ -80,7 +80,7 @@ Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance an
 - State Managment: Redux
 - CSS Framework: Materialize 
 - REST API
-- 
+
 **Team:**
 - Project manager, Front-end and Back-end developers in Ukraine
 - Product owner in Japan
