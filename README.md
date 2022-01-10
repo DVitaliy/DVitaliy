@@ -1,3 +1,8 @@
+# Vitaliy Dynnik
+> **Telegram:** @vdynnik
+> 
+> **Phone:** +38063-729-43-04
+
 ## Front-end JavaScript Developer
 
 Last 8 years worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
@@ -9,7 +14,7 @@ My passion is creating simple yet usability user interfaces. For example, Figma,
 ### Worked on projects
 
 # Jupiter
-*08/2021 - current time*
+*08/2021 - 01/2022*
 > A constructor for creating a mobile application without writing any code. 
 Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance and usability on [`Figma`](https://figma.com/)
 
