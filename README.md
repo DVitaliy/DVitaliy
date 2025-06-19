@@ -7,9 +7,103 @@
 >
 > **GitHub:** github.com/DVitaliy
 
+## Lead React, TypeScript developer
+
+For the last 3 years, I worked as a lead frontend developer at [`Poolz.finance`](https://www.poolz.finance/)
+Main stacks: `React`, `TypeScript`, `web3.js`, `Strapi`, `ApolloGraph`, `vite`, `TaileWind`, `GitHub CI/CD`, `AWS Amplify`
+
+### Worked on projects
+
+# Poolz.finance https://www.poolz.finance/
+*02/2022 - 06/2025*
+> The main site of the largest IDO provider, providing companies and investors with a full range of services. My task was to implement such goals.
+First, investors apply for participation in the whitelist, and at the time of the IDO launch, they make investments. The site has a dashboard where all investments are visible and there is an opportunity to refund or withdraw funds.
+
+**Responsibilities:** Team Lead *(Front-End)*
+- Developing features
+- Team management
+- New team members onboarding
+- Code review
+
+**Tech stack:** 
+- Client: React 18, vite
+- BackEnd: AWS, Strapi
+- Language: TypeScript
+- CSS: TailWind
+- State Managment: Redux, React
+- Auth: Sign-In with EVM - ERC-4361
+- API protocol: GraphQL
+- VCS: GitHub
+
+**Team:**
+- since 02/2022 - 10/2023 2-3 Front-end developers
+- Back-end 2-3 developers
+- Smart Contracts 1-2 developers
+
+# admin.Poolz.finance
+*10/2024 - 07/2025*
+> Full administration of internal processes. From the creation of IDO to the creation of EPC20 and NFT tokens
+
+**Responsibilities:** Team Lead *(Front-End)*
+- Same as for Poolz.finance
+  
+**Tech stack:** 
+- Same as for Poolz.finance
+
+# GoMeme https://www.gomeme.fun/ & https://view.gomeme.fun
+*08/2024 - 09/2024*
+> Generating new sites using `OpenAI` based on user requests
+
+**Responsibilities:**
+- Developing features
+- MarkUp css
+
+**Tech stack:** 
+- Client: React 18, vite
+- BackEnd: AWS
+- Language: TypeScript
+- CSS: TailWind
+- State Managment: Zustand, React
+- Auth: Sign-In with EVM - ERC-4361
+- API protocol: Amplify-API
+- VCS: GitHub
+
+# BNBParty.com
+*07/2024 - 10/2024*
+> Project similar to [`pump.fun`](https://pump.fun/) or [`base.fun`](https://www.base.fun/ ). Anyone could create their own token on the Binance network. Or buy an existing one. Each token had its own page with a chart and comments. The main page displayed all token activity
+
+**Responsibilities:**
+- Developing features
+
+**Tech stack:** 
+- Client: React 18, vite
+- BackEnd: AWS
+- Language: TypeScript
+- CSS: TailWind
+- State Managment: Zustand, React
+- Auth: Sign-In with EVM - ERC-4361
+- API protocol: Amplify-API
+- VCS: GitHub
+
+# Algalon AI https://www.algalon.ai/
+*02/2023 - 06/2023*
+> Site for selling and buying tokens, but with integration of `OpenAI` chat bot
+
+**Responsibilities:**
+- Developing features
+
+**Tech stack:** 
+- Client: React 18
+- BackEnd: AWS
+- Language: TypeScript
+- CSS: TailWind
+- State Managment: Zustand, React
+- API protocol: Amplify-API
+- VCS: GitHub
+  
 ## Front-end JavaScript Developer
 
-Last 8 years worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
+From 2014 to 2022  worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
 
 Expert in frontend and backend development using `JavaScript (ES5, ES6)`, `Node.js`, `TypeScript`, `React`, `Recoil`
 
