@@ -1,214 +1,94 @@
-# Vitaliy Dynnik
-> **Telegram:** @vdynnik
-> 
-> **Phone:** +38063-729-43-04
->
-> **in:** linkedin.com/in/виталий-дынник-73ba0b80
->
-> **GitHub:** github.com/DVitaliy
+# VITALII DYNNIK
 
-## Lead React, TypeScript developer
++380677294304 | [Mail](mailto:dynnik.vitaliy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/виталий-дынник-73ba0b80/) | [Telegram](https://t.me/vdynnik) | Kharkiv
 
-For the last 3 years, I worked as a lead frontend developer at [`Poolz.finance`](https://www.poolz.finance/)
-Main stacks: `React`, `TypeScript`, `web3.js`, `Strapi`, `ApolloGraph`, `vite`, `TaileWind`, `GitHub CI/CD`, `AWS Amplify`
+## SUMMARY
 
-### Worked on projects
+Expert in frontend and backend development using **JavaScript, TypeScript, Node.js, React, Next.js Developer, Web3, GraphQL, GitHub CI/CD**.  
+Passionate about creating intuitive user interfaces with hidden yet logically accessible functionality (Figma-like approach).  
+Portfolio: [github.com/DVItally](https://github.com/DVItally)
 
-# Poolz.finance https://www.poolz.finance/
-*02/2022 - 06/2025*
-> The main site of the largest IDO provider, providing companies and investors with a full range of services. My task was to implement such goals.
-First, investors apply for participation in the whitelist, and at the time of the IDO launch, they make investments. The site has a dashboard where all investments are visible and there is an opportunity to refund or withdraw funds.
+## EXPERIENCE
 
-**Responsibilities:** Team Lead *(Front-End)*
-- Developing features
-- Team management
-- New team members onboarding
-- Code review
+### Senior Frontend React TypeScript Developer
 
-**Tech stack:** 
-- Client: React 18, vite
-- BackEnd: AWS, Strapi
-- Language: TypeScript
-- CSS: TailWind
-- State Managment: Redux, React
-- Auth: Sign-In with EVM - ERC-4361
-- API protocol: GraphQL
-- VCS: GitHub
+**[Poolz Finance](https://www.poolz.finance/)** | Remote | 02/2022 - 07/2025
 
-**Team:**
-- since 02/2022 - 10/2023 2-3 Front-end developers
-- Back-end 2-3 developers
-- Smart Contracts 1-2 developers
+> _A leading IDO launchpad providing end-to-end token sale solutions for blockchain projects and investors_
 
-# admin.Poolz.finance
-*10/2024 - 07/2025*
-> Full administration of internal processes. From the creation of IDO to the creation of EPC20 and NFT tokens
+**Tech Stack:**  
+React 18-19, Vite, AWS, Strapi, TypeScript, Tailwind, Redux, Zustand, ERC-4361, GraphQL, GitHub CI/CD
 
-**Responsibilities:** Team Lead *(Front-End)*
-- Same as for Poolz.finance
-  
-**Tech stack:** 
-- Same as for Poolz.finance
+**Team Lead Responsibilities:**
 
-# GoMeme https://www.gomeme.fun/ & https://view.gomeme.fun
-*08/2024 - 09/2024*
-> Generating new sites using `OpenAI` based on user requests
+- Feature development and architecture
+- Managed 5-member frontend team
+- Onboarded new developers
+- Conducted code reviews
 
-**Responsibilities:**
-- Developing features
-- MarkUp css
+**Key Projects:**
 
-**Tech stack:** 
-- Client: React 18, vite
-- BackEnd: AWS
-- Language: TypeScript
-- CSS: TailWind
-- State Managment: Zustand, React
-- Auth: Sign-In with EVM - ERC-4361
-- API protocol: Amplify-API
-- VCS: GitHub
+- Whitelist/KYC verification system
+- Real-time investor dashboard
+- Multi-chain investment processing
 
-# BNBParty.com
-*07/2024 - 10/2024*
-> Project similar to [`pump.fun`](https://pump.fun/) or [`base.fun`](https://www.base.fun/ ). Anyone could create their own token on the Binance network. Or buy an existing one. Each token had its own page with a chart and comments. The main page displayed all token activity
+### Senior JavaScript/Node.js Developer
 
-**Responsibilities:**
-- Developing features
+**[i3DESIGN Co., Ltd.](https://www.i3design.jp/)** | Kharkiv, Ukraine | 10/2013 - 01/2022
 
-**Tech stack:** 
-- Client: React 18, vite
-- BackEnd: AWS
-- Language: TypeScript
-- CSS: TailWind
-- State Managment: Zustand, React
-- Auth: Sign-In with EVM - ERC-4361
-- API protocol: Amplify-API
-- VCS: GitHub
+> _i3Design is a tech company that provides mobile services to top-tier Japanese
+> companies. As part of our GOMOBILE service line, we provide the exceptionally popular
+> platform called "Flamingo,
+> "_
 
-# Algalon AI https://www.algalon.ai/
-*02/2023 - 06/2023*
-> Site for selling and buying tokens, but with integration of `OpenAI` chat bot
+**Tech Stack:**  
+React 17, Node.js, TypeScript, Recoil, gRPC proto3, AWS Cognito, GitLab
 
-**Responsibilities:**
-- Developing features
+**Achievements:**
 
-**Tech stack:** 
-- Client: React 18
-- BackEnd: AWS
-- Language: TypeScript
-- CSS: TailWind
-- State Managment: Zustand, React
-- API protocol: Amplify-API
-- VCS: GitHub
-  
-## Front-end JavaScript Developer
+- Full-stack development of enterprise mobile platform
+- Implemented gRPC microservices
+- Optimized AWS Cognito integration
 
-From 2014 to 2022  worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
+## EDUCATION
 
-Expert in frontend and backend development using `JavaScript (ES5, ES6)`, `Node.js`, `TypeScript`, `React`, `Recoil`
+**Specialist Degree in Business Management**  
+National Technical University "Kharkiv Polytechnic Institute" | 1999-2005
 
-My passion is creating simple yet usability user interfaces. For example, Figma, where a lot of functionality is not displayed, but hidden and access to it is logical and intuitive.
+## KEY ACHIEVEMENTS
 
-### Worked on projects
+- **Team Leadership:** Scaled delivery speed by 25% with 5-member team
+- **Performance:** Reduced page load time by 40%
+- **DevOps:** Cut deployment errors 50% via GitHub CI/CD
+- **Quality:** Achieved 80% code coverage with unit tests
+- **Web3:** Integrated smart contract connectivity
+- **Tooling:** Developed SDK for rapid project setup
+- **Automation:** Streamlined releases via GitHub Actions
 
-# Jupiter
-*08/2021 - 01/2022*
-> A constructor for creating a mobile application without writing any code. 
-Functionally focused on [`FlutterFlow`](https://flutterflow.io/), performance and usability on [`Figma`](https://figma.com/)
+## LANGUAGES
 
-**Responsibilities:** Team Lead *(Front-End)*
-- Arhiticture
-- Developing features
-- Team management
-- New team members onboarding
-- Code review
+- English: Intermediate (B1)
+- Russian: Native
+- Ukrainian: Native
 
-**Tech stack:** 
-- Client: React 17 (hooks)
-- Language: TypeScript
-- State Managment: Recoil
-- Auth: Amazone Aws Cognito
-- API protocol: gRPC proto3
-- VCS: GitLab
+## TECHNICAL SKILLS
 
-**Team:**
-- 2 Front-end developers in Vietnam
-- Project manager, Team Lead and Markuper in Ukraine
-- Back-end developers in Ukraine
-- Product owner in Japan
+**Frontend:**  
+React | Next.js | TypeScript | Redux | Recoil | Zustand | Tailwind
 
-# Migrate Mobify's clients to Flamingo
-*01/2021 - 07/2021*
-> At the end of 2020, Mobify announced its merger with SalesForse. Some clients decided to migrate to `Flamingo`
+**Backend:**  
+Node.js | GraphQL | gRPC | REST API | WebSockets
 
-**Responsibilities:** JavaScript Developer
+**Blockchain:**  
+Web3 | ERC-20/721/4361 | Smart Contracts
 
-**Team:** Project managers, Product owner in Japan;
+**DevOps:**  
+Ubuntu | Linux | GitHub Actions | Docker | AWS | Strapi
 
-# [Mirron](https://mirron.me/)
-*03/2020 - 12/2020*
-> Social network for stylists and women using Mirron products
+**Testing:**  
+Vitest | Jest | CI/CD
 
-**Responsibilities:** Mobile Developer, QA
+**Other:**  
+SOLID Principles | Figma | Jira | Agile
 
-**Tech stack:** 
-- Mobile Application: React Native
-- Website: PHP+Laravel
-- Environment: 4 environments deployed on Microsoft Azure
-- Push-Notification Service: Firebase
-- File storage: Azure Blob storage + CDN
-- GitLab, BitRise
-
-# MyTennis
-*12/2019 - 02/2020*
-> Tennis website, with results and statistics of matches
-
-**Responsibilities:** PHP Developer
-- Stylization Admin Panel
-
-**Tech stack:** 
-- Website: PHP
-- CSS Framework: Materialize 
-
-# AeroEdge
-*01/2019 - 11/2019*
-> The largest Japanese aircraft engine assembler, a website was developed for internal accounting and analysis of the entire assembly process
-
-**Responsibilities:** Front-End
-- Arhiticture
-- Developing features
-
-**Tech stack:** 
-- Client: React 16
-- State Managment: Redux
-- CSS Framework: Materialize 
-- REST API
-
-**Team:**
-- Project manager, Front-end and Back-end developers in Ukraine
-- Product owner in Japan
-
-# [Flamingo](https://gomobile.jp/flamingo/)
-*10/2013 - 2021*
-> Solution that enables you to improve the site without changing the system code or server by adopting the architecture that runs on the browser side.
-
-**Responsibilities:** Team Lead *(Front-End)*
-- Developing features
-- Team management
-- New team members onboarding
-- Code review
-- Unit Tests
-
-**Tech stack:** 
-- Client: JavaScript, JQuery, Bootstrap, HTML5
-- Backend: Node.js
-- API protocol: Web Sockets, JaberServer
-- VCS: GitLab
-
-**Team:**
-- Project manager, 2 Front-end developers in Ukraine
-- Back-end developers in Ukraine
-- Product owner in Japan
-
-
-## [Here located my previous resume 2004 - 2013](https://docs.google.com/document/d/1qF33J355xaTBEPeAM_7q5OZX0n9tTGAcudeNuNGAWS4/) rus version
+[More detailed description](resume.md)
