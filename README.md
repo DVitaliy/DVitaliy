@@ -1,16 +1,16 @@
 # VITALII DYNNIK
 
-🇺🇦 +380677294304, 🇲🇩 +37376831385 | ✉️ [dynnik.vitaliy@gmail.com](mailto:dynnik.vitaliy@gmail.com) | [linkedin.com/виталий-дынник](https://www.linkedin.com/in/виталий-дынник-73ba0b80/) | Telegram: [@vdynnik](https://t.me/vdynnik)
+🇺🇦 +380677294304, 🇲🇩 +37376831385 | ✉️ <ins>[dynnik.vitaliy@gmail.com](mailto:dynnik.vitaliy@gmail.com)</ins> | <ins>[linkedin.com/виталий-дынник](https://www.linkedin.com/in/виталий-дынник-73ba0b80/)</ins> | Telegram: <ins>[@vdynnik](https://t.me/vdynnik)</ins>
 
 ## SUMMARY
 
-Expert in frontend and backend development using **JavaScript, TypeScript, Node.js, React, Next.js Developer, Web3, GraphQL, GitHub CI/CD**.  
+Expert in frontend and backend development using **JavaScript, TypeScript, Node.js, React, Next.js, Web3, GraphQL, GitHub CI/CD**.  
 Passionate about creating intuitive user interfaces with hidden yet logically accessible functionality (Figma-like approach).  
 Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 
 ## EXPERIENCE
 
-#### 02/2022 - 07/2025 | [Poolz Finance](https://www.poolz.finance/) 🇵🇹🇮🇱 | Remote
+#### 02/2022 - 07/2025 | <ins>[Poolz Finance](https://www.poolz.finance/)</ins> 🇵🇹🇮🇱 | Remote
 
 ### Senior Frontend React TypeScript Developer
 
@@ -34,7 +34,7 @@ React 18-19, Next.js, Vite, AWS, Strapi, TypeScript, Tailwind, Redux, Zustand, E
 
 ---
 
-#### 10/2013 - 01/2022 | [i3DESIGN Co., Ltd.](https://www.i3design.jp/) 🇯🇵 | Office
+#### 10/2013 - 01/2022 | <ins>[i3DESIGN Co., Ltd.](https://www.i3design.jp/)</ins> 🇯🇵 | Office
 
 ### Senior JavaScript/Node.js Developer
 
