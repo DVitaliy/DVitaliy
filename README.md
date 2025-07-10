@@ -1,6 +1,6 @@
 # VITALII DYNNIK
 
-🇺🇦 +380677294304 | ✉️ [dynnik.vitaliy@gmail.com](mailto:dynnik.vitaliy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/виталий-дынник-73ba0b80/) | Telegram: [@vdynnik](https://t.me/vdynnik)
+🇺🇦 +380677294304, 🇲🇩 +37376831385 | ✉️ [dynnik.vitaliy@gmail.com](mailto:dynnik.vitaliy@gmail.com) | [linkedin.com/виталий-дынник](https://www.linkedin.com/in/виталий-дынник-73ba0b80/) | Telegram: [@vdynnik](https://t.me/vdynnik)
 
 ## SUMMARY
 
