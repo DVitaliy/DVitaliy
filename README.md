@@ -28,9 +28,14 @@ React 18-19, Next.js, Vite, AWS, Strapi, TypeScript, Tailwind, Redux, Zustand, E
 
 **Key Projects:**
 
+- Web3 & Blockchain Integration
+- SDK Development & Deployment Automation
 - Whitelist/KYC verification system
 - Real-time investor dashboard
 - Multi-chain investment processing
+- Component-Based Release System
+
+> <ins>[Please see the full description](https://github.com/DVitaliy/DVitaliy/blob/main/resume.md)</ins>
 
 ---
 
@@ -51,6 +56,8 @@ React 16-17, React Native, Node.js, TypeScript, Recoil, gRPC proto3, AWS Cognito
 - Full-stack development of enterprise mobile platform
 - Implemented gRPC microservices
 - Optimized AWS Cognito integration
+
+> <ins>[Please see the full description](https://github.com/DVitaliy/DVitaliy/blob/main/resume.md#front-end-javascript-developer)</ins>
 
 ## EDUCATION
 

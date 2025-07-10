@@ -1,11 +1,11 @@
-## Lead React, TypeScript developer
+# Lead React, TypeScript developer
 
 For the last 3 years, I worked as a lead frontend developer at [`Poolz.finance`](https://www.poolz.finance/)
-Main stacks: `React`, `TypeScript`, `web3.js`, `Strapi`, `ApolloGraph`, `vite`, `TaileWind`, `GitHub CI/CD`, `AWS Amplify`
+Main stacks: `React`, `TypeScript`, `web3.js`, `Strapi`, `ApolloGraph`, `vite`, `TailWind`, `GitHub CI/CD`, `AWS Amplify`, `Redux`, `vitest`, `Cypress`
 
-### Worked on projects
+### Projects
 
-#### Poolz.finance https://www.poolz.finance/
+## Poolz.finance https://www.poolz.finance/
 
 _02/2022 - 06/2025_
 
@@ -21,22 +21,24 @@ _02/2022 - 06/2025_
 
 **Tech stack:**
 
-- Client: React 18, vite
-- BackEnd: AWS, Strapi
-- Language: TypeScript
-- CSS: TailWind
-- State Managment: Redux, React
-- Auth: Sign-In with EVM - ERC-4361
-- API protocol: GraphQL
-- VCS: GitHub
+- _Client:_ React 18, vite
+- _BackEnd:_ AWS, Strapi, Next.js
+- _Language:_ TypeScript
+- _CSS:_ TailWind
+- _State Managment:_ Redux, React
+- _Auth:_ Sign-In with EVM - ERC-4361
+- _API protocol:_ GraphQL
+- _VCS:_ GitHub
 
 **Team:**
 
-- since 02/2022 - 10/2023 2-3 Front-end developers
-- Back-end 2-3 developers
+- since 02/2022 - 10/2023 **2-3** Front-end developers
+- Back-end **2-3** developers
 - Smart Contracts 1-2 developers
 
-#### admin.Poolz.finance
+---
+
+## admin.Poolz.finance
 
 _10/2024 - 07/2025_
 
@@ -50,7 +52,9 @@ _10/2024 - 07/2025_
 
 - Same as for Poolz.finance
 
-#### GoMeme https://www.gomeme.fun/ & https://view.gomeme.fun
+---
+
+## GoMeme https://www.gomeme.fun/ & https://view.gomeme.fun
 
 _08/2024 - 09/2024_
 
@@ -63,16 +67,18 @@ _08/2024 - 09/2024_
 
 **Tech stack:**
 
-- Client: React 18, vite
-- BackEnd: AWS
-- Language: TypeScript
-- CSS: TailWind
-- State Managment: Zustand, React
-- Auth: Sign-In with EVM - ERC-4361
-- API protocol: Amplify-API
-- VCS: GitHub
+- _Client:_ React 18, vite
+- _BackEnd:_ AWS
+- _Language:_ TypeScript
+- _CSS:_ TailWind
+- _State Managment:_ Zustand, React
+- _Auth:_ Sign-In with EVM - ERC-4361
+- _API protocol:_ Amplify-API
+- _VCS:_ GitHub
 
-#### BNBParty.com
+---
+
+## BNBParty.com
 
 _07/2024 - 10/2024_
 
@@ -93,7 +99,9 @@ _07/2024 - 10/2024_
 - API protocol: Amplify-API
 - VCS: GitHub
 
-#### Algalon AI https://www.algalon.ai/
+---
+
+## Algalon AI https://www.algalon.ai/
 
 _02/2023 - 06/2023_
 
@@ -113,7 +121,9 @@ _02/2023 - 06/2023_
 - API protocol: Amplify-API
 - VCS: GitHub
 
-## Front-end JavaScript Developer
+---
+
+# Front-end JavaScript Developer
 
 From 2014 to 2022 worked at Japanese Company [`I3design`](https://i3design.jp/) R&D department.
 
@@ -121,9 +131,9 @@ Expert in frontend and backend development using `JavaScript (ES5, ES6)`, `Node.
 
 My passion is creating simple yet usability user interfaces. For example, Figma, where a lot of functionality is not displayed, but hidden and access to it is logical and intuitive.
 
-### Worked on projects
+### Projects
 
-#### Jupiter
+## Jupiter
 
 _08/2021 - 01/2022_
 
@@ -154,7 +164,7 @@ _08/2021 - 01/2022_
 - Back-end developers in Ukraine
 - Product owner in Japan
 
-#### Migrate Mobify's clients to Flamingo
+## Migrate Mobify's clients to Flamingo
 
 _01/2021 - 07/2021_
 
@@ -164,7 +174,7 @@ _01/2021 - 07/2021_
 
 **Team:** Project managers, Product owner in Japan;
 
-#### [Mirron](https://mirron.me/)
+## [Mirron](https://mirron.me/)
 
 _03/2020 - 12/2020_
 
@@ -181,7 +191,7 @@ _03/2020 - 12/2020_
 - File storage: Azure Blob storage + CDN
 - GitLab, BitRise
 
-#### MyTennis
+## MyTennis
 
 _12/2019 - 02/2020_
 
@@ -196,7 +206,7 @@ _12/2019 - 02/2020_
 - Website: PHP
 - CSS Framework: Materialize
 
-#### AeroEdge
+## AeroEdge
 
 _01/2019 - 11/2019_
 
@@ -219,7 +229,7 @@ _01/2019 - 11/2019_
 - Project manager, Front-end and Back-end developers in Ukraine
 - Product owner in Japan
 
-#### [Flamingo](https://gomobile.jp/flamingo/)
+## [Flamingo](https://gomobile.jp/flamingo/)
 
 _10/2013 - 2021_
 
