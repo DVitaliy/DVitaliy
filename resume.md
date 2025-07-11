@@ -30,6 +30,8 @@ _02/2022 - 06/2025_
 - _API protocol:_ GraphQL
 - _VCS:_ GitHub
 
+> [Figma design](https://www.figma.com/design/bu4C8H5EPSjAuMlcrdUlsJ/Untitled)
+
 **Team:**
 
 - since 02/2022 - 10/2023 **2-3** Front-end developers
@@ -76,6 +78,8 @@ _08/2024 - 09/2024_
 - _API protocol:_ Amplify-API
 - _VCS:_ GitHub
 
+> [Figma design](https://www.figma.com/design/bu4C8H5EPSjAuMlcrdUlsJ/Untitled?node-id=6-29462&t=hcKWfa9EPCfEBWc1-1)
+
 ---
 
 ## BNBParty.com
@@ -98,6 +102,8 @@ _07/2024 - 10/2024_
 - Auth: Sign-In with EVM - ERC-4361
 - API protocol: Amplify-API
 - VCS: GitHub
+
+> [Figma design](https://www.figma.com/design/bu4C8H5EPSjAuMlcrdUlsJ/Untitled?node-id=0-1&t=hcKWfa9EPCfEBWc1-1)
 
 ---
 
