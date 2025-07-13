@@ -8,6 +8,7 @@ Expert in frontend and backend development using **JavaScript, TypeScript, Node.
 Passionate about creating intuitive user interfaces with hidden yet logically accessible functionality (Figma-like approach).  
 Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 
+
 ## EXPERIENCE
 
 #### 02/2022 - 07/2025 | [Poolz Finance](https://www.poolz.finance/) 🇮🇱🇵🇹 | Remote
@@ -48,7 +49,7 @@ React 18-19, Next.js, Vite, Vitest, AWS Amplify, Strapi, TypeScript, Tailwind, R
 > [Please see the full description](https://github.com/DVitaliy/DVitaliy/blob/main/resume.md)
 
 ---
-
+  
 #### 10/2013 - 01/2022 | [i3DESIGN Co., Ltd.](https://www.i3design.jp/) 🇯🇵 | Office
 
 ### Senior JavaScript/Node.js Developer
