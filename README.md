@@ -1,6 +1,6 @@
 # VITALII DYNNIK
 
-+380677294304, +37376831385 | [dynnik.vitaliy@gmail.com](mailto:dynnik.vitaliy@gmail.com) | [linkedin.com/виталий-дынник](https://www.linkedin.com/in/виталий-дынник-73ba0b80/) | Telegram: [@vdynnik](https://t.me/vdynnik)
+🇺🇦 +380677294304, 🇲🇩 +37376831385 | ✉️ [dynnik.vitaliy@gmail.com](mailto:dynnik.vitaliy@gmail.com) | [linkedin.com/виталий-дынник](https://www.linkedin.com/in/виталий-дынник-73ba0b80/) | Telegram: [@vdynnik](https://t.me/vdynnik)
 
 ## SUMMARY
 
@@ -10,7 +10,7 @@ Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 
 ## EXPERIENCE
 
-#### 02/2022 - 07/2025 | [Poolz Finance](https://www.poolz.finance/) | Remote
+#### 02/2022 - 07/2025 | [Poolz Finance](https://www.poolz.finance/) 🇮🇱🇵🇹 | Remote
 
 ### Senior Frontend React TypeScript Developer
 
@@ -49,7 +49,7 @@ React 18-19, Next.js, Vite, Vitest, AWS Amplify, Strapi, TypeScript, Tailwind, R
 
 ---
 
-#### 10/2013 - 01/2022 | [i3DESIGN Co., Ltd.](https://www.i3design.jp/) | Office
+#### 10/2013 - 01/2022 | [i3DESIGN Co., Ltd.](https://www.i3design.jp/) 🇯🇵 | Office
 
 ### Senior JavaScript/Node.js Developer
 
