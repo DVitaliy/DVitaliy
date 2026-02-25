@@ -17,7 +17,7 @@ Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 > _KIVORK is a travel technology hub that designs and continuously perfects the most innovative all-around Online Travel Agency (OTA) platforms_
 
 **Tech Stack:**  
-Vue 3, Laravel, Vite, Vitest, AWS Amplify, TypeScript, Pina, Affirm, Stripe
+Vue 3, Laravel, Vite, WebSockets, Vitest, AWS Amplify, TypeScript, Pina, Affirm, Stripe
 
 **Responsibilities:**
 

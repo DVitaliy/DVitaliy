@@ -1,7 +1,8 @@
 # Senior Frontend Vue TypeScript Developer
 
-08/2025 - 02/2026 Worked on a high-traffic airline booking platform supporting multiple brands [Kivork](https://www.linkedin.com/company/kivork/) 🇲🇩 _KIVORK is a travel technology hub that designs and continuously perfects the most innovative all-around Online Travel Agency (OTA) platforms_
-Main stacks: `React`, `Vue 3`, `Laravel`, `Vite`, `Vitest`, `AWS`, `TypeScript`, `Pina`, `Affirm`, `Stripe`
+08/2025 - 02/2026 Worked on a high-traffic airline booking platform supporting multiple brands [Kivork](https://www.linkedin.com/company/kivork/) _KIVORK is a travel technology hub that designs and continuously perfects the most innovative all-around Online Travel Agency (OTA) platforms_
+
+Main stacks: `React`, `WebSockets`, `Vue 3`, `Laravel`, `Vite`, `Vitest`, `AWS`, `TypeScript`, `Pina`, `Affirm`, `Stripe`
 
 - skymonde.com
 - ovago.com
