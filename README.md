@@ -22,7 +22,6 @@ Vue 3, Laravel, Vite, Vitest, AWS Amplify, TypeScript, Pina, Affirm, Stripe
 **Responsibilities:**
 
 - Worked on a high-traffic airline booking platform supporting multiple brands
-- Developer
 - Migrated the checkout flow from React to Vue
 - Implemented new features for a multi-brand flight booking platform
 - Integrated payment providers, including Affirm
