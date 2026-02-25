@@ -4,12 +4,51 @@
 
 ## SUMMARY
 
-Expert in frontend and backend development using **JavaScript, TypeScript, Node.js, React, Next.js, Web3, GraphQL, GitHub CI/CD**.  
+Expert in frontend and backend development using **JavaScript, TypeScript, Node.js, React, Vue, Next.js, Web3, GraphQL, GitHub CI/CD**.  
 Passionate about creating intuitive user interfaces with hidden yet logically accessible functionality (Figma-like approach).  
 Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 
-
 ## EXPERIENCE
+
+#### 08/2025 - 02/2026 | [Kivork](https://www.linkedin.com/company/kivork/) 🇲🇩 | Office
+
+### Senior Frontend Vue TypeScript Developer
+
+> _KIVORK is a travel technology hub that designs and continuously perfects the most innovative all-around Online Travel Agency (OTA) platforms_
+
+**Tech Stack:**  
+Vue 3, Laravel, Vite, Vitest, AWS Amplify, TypeScript, Pina, Affirm, Stripe
+
+**Responsibilities:**
+
+- Worked on a high-traffic airline booking platform supporting multiple brands
+- Developer
+- Migrated the checkout flow from React to Vue
+- Implemented new features for a multi-brand flight booking platform
+- Integrated payment providers, including Affirm
+- Wrote unit tests to improve reliability and prevent regressions
+- Participated in code reviews and maintained code quality standards
+- Developed and maintained UI components documented in Storybook
+
+---
+
+#### 07/2025 - 09/2025 | [VLancer](https://www.vlancer.ai/) 🇮🇱 | Remote
+
+### Senior Mobile ReactNative/Next.js TypeScript Developer
+
+> _Vlancer.ai is an AI-powered freelance marketplace for remote work_
+
+**Tech Stack:**  
+ReactNative, React, Expo, Next.js, Vite, JWT, TypeScript, Turborepo
+
+**Team Lead Responsibilities:**
+
+- Feature development and architecture
+- Managed cross-border teams (Ukraine/Canada/Israel)
+- Technical onboarding of new developers
+- Code quality oversight and reviews
+
+---
 
 #### 02/2022 - 07/2025 | [Poolz Finance](https://www.poolz.finance/) 🇮🇱🇵🇹 | Remote
 
@@ -49,7 +88,7 @@ React 18-19, Next.js, Vite, Vitest, AWS Amplify, Strapi, TypeScript, Tailwind, R
 > [Please see the full description](https://github.com/DVitaliy/DVitaliy/blob/main/resume.md)
 
 ---
-  
+
 #### 10/2013 - 01/2022 | [i3DESIGN Co., Ltd.](https://www.i3design.jp/) 🇯🇵 | Office
 
 ### Senior JavaScript/Node.js Developer
