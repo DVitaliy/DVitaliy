@@ -1,6 +1,18 @@
+# Senior Frontend Vue TypeScript Developer
+
+08/2025 - 02/2026 Worked on a high-traffic airline booking platform supporting multiple brands [Kivork](https://www.linkedin.com/company/kivork/) 🇲🇩 _KIVORK is a travel technology hub that designs and continuously perfects the most innovative all-around Online Travel Agency (OTA) platforms_
+Main stacks: `React`, `Vue 3`, `Laravel`, `Vite`, `Vitest`, `AWS`, `TypeScript`, `Pina`, `Affirm`, `Stripe`
+
+- skymonde.com
+- ovago.com
+- wowfare.com
+- gurufare.com
+
+---
+
 # Lead React, TypeScript developer
 
-For the last 3 years, I worked as a lead frontend developer at [`Poolz.finance`](https://www.poolz.finance/)
+From 2022 to 2025 I worked as a lead frontend developer at [`Poolz.finance`](https://www.poolz.finance/)
 Main stacks: `React`, `TypeScript`, `web3.js`, `Strapi`, `ApolloGraph`, `vite`, `TailWind`, `GitHub CI/CD`, `AWS Amplify`, `Redux`, `vitest`, `Cypress`
 
 ### Projects
