@@ -6,6 +6,7 @@
 
 Expert in frontend and backend development using **JavaScript, TypeScript, Node.js, React, Vue, Next.js, Web3, GraphQL, GitHub CI/CD**.  
 Passionate about creating intuitive user interfaces with hidden yet logically accessible functionality (Figma-like approach).  
+**Strengths:** lead engineering teams to meet business goals, safeguard product quality, and negotiate delivery timelines that balance speed with reliability.
 Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 
 **Regularly apply AI-assisted coding copilots for research, scaffolding, and automation while retaining full control over architecture, logic, and final code quality through rigorous reviews.**
