@@ -153,6 +153,9 @@ National Technical University "Kharkiv Polytechnic Institute" | 1999-2005
 
 ## TECHNICAL SKILLS
 
+**AI tools:**
+OpenAI | ChatGPT | Codex | Copilot | Claude code
+
 **Frontend:**  
 React | Next.js | TypeScript | Redux | Recoil | Zustand | Tailwind
 
