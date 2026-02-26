@@ -8,6 +8,8 @@ Expert in frontend and backend development using **JavaScript, TypeScript, Node.
 Passionate about creating intuitive user interfaces with hidden yet logically accessible functionality (Figma-like approach).  
 Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 
+**Regularly apply AI-assisted coding copilots for research, scaffolding, and automation while retaining full control over architecture, logic, and final code quality through rigorous reviews.**
+
 ## EXPERIENCE
 
 #### 08/2025 - 02/2026 | [Kivork](https://www.linkedin.com/company/kivork/) 🇲🇩 | Office
@@ -28,6 +30,7 @@ Vue 3, Laravel, Vite, WebSockets, Vitest, AWS Amplify, TypeScript, Pina, Affirm,
 - Wrote unit tests to improve reliability and prevent regressions
 - Participated in code reviews and maintained code quality standards
 - Developed and maintained UI components documented in Storybook
+- Integrated an AI assistant into the frontend via WebSockets to enhance agent productivity
 
 ---
 
@@ -38,7 +41,7 @@ Vue 3, Laravel, Vite, WebSockets, Vitest, AWS Amplify, TypeScript, Pina, Affirm,
 > _Vlancer.ai is an AI-powered freelance marketplace for remote work_
 
 **Tech Stack:**  
-ReactNative, React, Expo, Next.js, Vite, JWT, TypeScript, Turborepo
+ReactNative, React, Expo, Next.js, Vite, JWT, TypeScript, Turborepo, TanStack Query
 
 **Team Lead Responsibilities:**
 
@@ -88,14 +91,11 @@ React 18-19, Next.js, Vite, Vitest, AWS Amplify, Strapi, TypeScript, Tailwind, R
 
 ---
 
-#### 10/2013 - 01/2022 | [i3DESIGN Co., Ltd.](https://www.i3design.jp/) 🇯🇵 | Office
+#### 10/2013 - 01/2022 | [i3DESIGN Co., Ltd.](https://www.i3design.jp/) 🇯🇵 🇺🇦 | Office
 
 ### Senior JavaScript/Node.js Developer
 
-> _i3Design is a tech company that provides mobile services to top-tier Japanese
-> companies. As part of our GOMOBILE service line, we provide the exceptionally popular
-> platform called "Flamingo,
-> "_
+> _i3Design is a tech company that provides mobile services to top-tier Japanese companies. As part of our GOMOBILE service line, we provide the exceptionally popular platform called "Flamingo"_
 
 **Tech Stack:**  
 React 16-17, React Native, Node.js, Web Sockets, JaberServer, TypeScript, Recoil, Redux, Materialize, gRPC proto3, AWS Cognito, Firebase, Azure Blob storage, GitLab, PHP, jQuery, HTML5
