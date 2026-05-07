@@ -1,17 +1,40 @@
 # VITALII DYNNIK
 
+Tech Lead / AI Agent Builder / Senior Fullstack Engineer
+
 🇺🇦 +380677294304, 🇲🇩 +37376831385 | ✉️ [dynnik.vitaliy@gmail.com](mailto:dynnik.vitaliy@gmail.com) | [linkedin.com/виталий-дынник](https://www.linkedin.com/in/виталий-дынник-73ba0b80/) | Telegram: [@vdynnik](https://t.me/vdynnik)
 
 ## SUMMARY
 
-Expert in frontend and backend development using **JavaScript, TypeScript, Node.js, React, Vue, Next.js, Web3, GraphQL, GitHub CI/CD**.  
-Passionate about creating intuitive user interfaces with hidden yet logically accessible functionality (Figma-like approach).  
-**Strengths:** lead engineering teams to meet business goals, safeguard product quality, and negotiate delivery timelines that balance speed with reliability.
+Tech Lead and AI Agent Builder with 12+ years in frontend, backend, platform development, automation, and distributed team leadership.  
+Build AI agents and AI-assisted engineering workflows that support research, scaffolding, business-process automation, rapid prototyping, and controlled "vibe coding" while retaining strict ownership of architecture, logic, reviews, and final code quality.  
+Expert in **JavaScript, TypeScript, Node.js, React, Vue, Next.js, Web3, GraphQL, GitHub CI/CD**, and modern AI-assisted development tools.  
+**Strengths:** translate business goals into technical direction, design scalable systems, lead engineering teams, safeguard product quality, and negotiate delivery timelines that balance speed with reliability.  
 Portfolio: [github.com/DVitaliy](https://github.com/DVitaliy)
 
-**Regularly apply AI-assisted coding copilots for research, scaffolding, and automation while retaining full control over architecture, logic, and final code quality through rigorous reviews.**
-
 ## EXPERIENCE
+
+#### 03/2026 - Present | BankStore | Remote / Full-time
+
+### Tech Lead - Vibe Coding & AI Agent Builder
+
+**Tech Stack:**  
+OpenAI API, OpenClaw, ChatGPT, Codex, Copilot, Claude Code, n8n, LangChain/LangGraph, Node.js, Next.js, PostgreSQL, Docker, AWS, GitHub Actions, TypeScript
+
+**Responsibilities:**
+
+- Lead AI and platform development with ownership of architecture, system performance, scalability, reliability, and technical direction
+- Design and develop multi-agent AI systems for automation of core business processes
+- Build AI agents that research, scaffold, automate, and accelerate implementation through controlled "vibe coding" workflows
+- Manage, maintain, and optimize the technology stack, infrastructure, and integrations
+- Analyze, verify, and improve business processes through AI-driven automation
+- Rapidly prototype and implement new product features using modern AI-assisted development approaches
+- Align platform strategy with business objectives in collaboration with management, product owners, operations, and leadership teams
+- Act as a technical point of contact for partners and internal stakeholders
+- Monitor market trends, AI technologies, and competitor solutions to guide system evolution
+- Develop client onboarding automation, AI-assisted communication tools, workflow automation, deadline tracking, analytics, and scalable support systems
+
+---
 
 #### 08/2025 - 02/2026 | [Kivork](https://www.linkedin.com/company/kivork/) 🇲🇩 | Office
 
@@ -155,13 +178,13 @@ National Technical University "Kharkiv Polytechnic Institute" | 1999-2005
 ## TECHNICAL SKILLS
 
 **AI tools:**
-OpenAI | ChatGPT | Codex | Copilot | Claude code
+OpenAI API | ChatGPT | Codex | Copilot | Claude Code | n8n | LangChain/LangGraph
 
 **Frontend:**  
 React | Next.js | TypeScript | Redux | Recoil | Zustand | Tailwind
 
 **Backend:**  
-Node.js | GraphQL | gRPC | REST API | WebSockets
+Node.js | PostgreSQL | GraphQL | gRPC | REST API | WebSockets
 
 **Blockchain:**  
 Web3 | ERC-20/721/4361 | Smart Contracts
@@ -173,7 +196,7 @@ Ubuntu | Linux | GitHub Actions | Docker | AWS | Strapi
 Vitest | Jest | CI/CD | SonarCloud
 
 **Other:**  
-SOLID Principles | KISS | DRY | Figma | Jira | Agile
+AI agents | Workflow automation | System architecture | Platform development | SOLID Principles | KISS | DRY | Figma | Jira | Agile
 
 ---
 
