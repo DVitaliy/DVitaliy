@@ -43,7 +43,7 @@ _02/2022 - 06/2025_
 - _API protocol:_ GraphQL
 - _VCS:_ GitHub
 
-> [Figma design](https://www.figma.com/design/bu4C8H5EPSjAuMlcrdUlsJ/Untitled)
+> [Figma design](https://www.figma.com/design/bu4C8H5EPSjAuMlcrdUlsJ/Poolz-Projects?node-id=6-13879&p=f&t=qGkWN68txmwlQevj-0)
 
 **Team:**
 
